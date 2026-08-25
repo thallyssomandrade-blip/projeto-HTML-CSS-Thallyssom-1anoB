@@ -1,1 +1,17 @@
-# projeto-HTML-CSS-Thallyssom-1ano
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+header{background-color: blueviolet;
+
+}
+    </style>
+</head>
+<body>
+    <h1>black sabbath</h1>
+    <p>curiosidades e fatos interessantes e assustadores sobre a banda</p>
+</body>
+</html>
